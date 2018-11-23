@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "294075000449",
+    "firebase_url": "https://ngumbara-himtiumt.firebaseio.com",
+    "project_id": "ngumbara-himtiumt",
+    "storage_bucket": "ngumbara-himtiumt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294075000449:android:04b5d3597f7e0b50",
+        "android_client_info": {
+          "package_name": "org.himti_umt.ngumbaraapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294075000449-ga85vkrib2kfcnl63ftnp4m056hpe5gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.himti_umt.ngumbaraapps",
+            "certificate_hash": "378784d180ced4fc63d77ba2382976fbb335d93f"
+          }
+        },
+        {
+          "client_id": "294075000449-84euc2b73im1hk7qk6jojdndiqje76i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqiQJuHQGellqxYluhnC8v0iAwJ5wTdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294075000449-84euc2b73im1hk7qk6jojdndiqje76i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
