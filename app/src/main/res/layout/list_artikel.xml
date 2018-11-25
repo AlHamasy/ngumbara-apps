@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="5dp"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="3dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/img_arikel"
+            android:src="@drawable/ic_login"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_margin="3dp"
+            android:scaleType="fitXY"
+            />
+        <TextView
+            android:id="@+id/tvJudul"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Taman gajah tunggal"
+            />
+        <TextView
+            android:id="@+id/tvdeskripsi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diskripsi"/>
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>
