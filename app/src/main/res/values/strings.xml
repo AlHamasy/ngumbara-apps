@@ -11,4 +11,9 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_detail_destinasi">DetailDestinasiActivity</string>
+    <string name="taman">Taman</string>
+    <string name="wisata_air">WISATA AIR</string>
+    <string name="museum">MUSEUM</string>
+    <string name="pusat_jajanan">PUSAT JAJANAN</string>
+    <string name="example">EXAMPLE</string>
 </resources>
